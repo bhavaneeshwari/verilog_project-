@@ -21,3 +21,7 @@ endmodule
 ```
 ## so the elaborated design
 <img width="1121" height="419" alt="image" src="https://github.com/user-attachments/assets/0403c186-16e5-43d5-80fd-dd31c4da79f6" />
+
+## synthesized design 
+here the LUT and FF are used/
+<img width="1554" height="514" alt="image" src="https://github.com/user-attachments/assets/c9d064f6-a01b-4e0a-a1b9-abd7c5b550db" />
