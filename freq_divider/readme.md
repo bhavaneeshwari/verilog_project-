@@ -1,28 +1,10 @@
 # FREQ DIVIDER 
-the clk source of bexys 4 DDR is 100MHZ -> 10 ns \
+the clk source of nexys 4 DDR is 100MHZ -> 10 ns \
 by connecting the q bar to din of DFF the frequency is divide by 2 -> 50MHZ -> 20ns
 
 ```v
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 25.02.2026 11:27:50
-// Design Name: 
-// Module Name: freq_div
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+
 
 
 module freq_div(
